@@ -7,5 +7,6 @@
 It relies on loops to perform the task for different quantities. 
 Duplicity can be modified with the number of simulated primary clinical studies and/or the number of clinical studies included in the single meta-analyses.
 
-- **Project 2 (Done with Python)**: This is a project to "market research" Android applications to find out what type of application would be most likely to work and be successful with the Android user community. 
-It involves Data Cleaning & Exploratory Data Analysis
+- **Project 2 (Done with Python)**: This is a project to "market research" Android applications to find out what type of application would be most likely to work and be successful with the Android user community.  It involves Data Cleaning & Exploratory Data Analysis.
+
+- **Project 3 (Done with R)**: This is a project of data visualization of a time-series dataset (Tesla's Stock Price from its IPO to March 17, 2017. The dashboard was created to visualise the evolution of Tesla's share price when its model.  
